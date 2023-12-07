@@ -8,14 +8,14 @@ import os
 url = 'https://archive.ics.uci.edu/static/public/53/iris.zip'
 response = requests.get(url)
 
-# Creating correct subdirectory
+# Creating Correct Subdirectory
 if not os.path.exists('data/iris'):
     os.makedirs('data/iris', exist_ok=True)
 
 with open('data/iris/iris.zip', mode='wb') as f:
     f.write(response.content)
 
-# Extracting zipfile
+# Extracting Zipfile
 with zipfile.ZipFile('data/iris/iris.zip', "r") as zip_reference:
     zip_reference.extractall('data/iris')
 
