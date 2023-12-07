@@ -1,8 +1,7 @@
 requests
 pandas
-numpy
-scikit-learn
 matplotlib
 snakemake
 ydata-profiling
 seaborn
+ucimlrepo
