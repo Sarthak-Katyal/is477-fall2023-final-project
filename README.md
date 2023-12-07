@@ -8,7 +8,7 @@ FILL ME
 
 ## Workflow
 FILL ME
-
+![Workflow Visualization](image-1.png)
 ## Reproducing
 FILL ME
 

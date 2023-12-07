@@ -4,4 +4,3 @@ matplotlib
 snakemake
 ydata-profiling
 seaborn
-ucimlrepo
