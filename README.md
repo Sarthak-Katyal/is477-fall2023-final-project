@@ -8,7 +8,7 @@ FILL ME
 
 ## Workflow
 FILL ME
-![Workflow Visualization](image-1.png)
+![Workflow Visualization](workflow_visualization_graph.png)
 
 ## Reproducing
 1. Clone this repository
