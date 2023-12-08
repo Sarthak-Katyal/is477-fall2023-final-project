@@ -1,5 +1,4 @@
-# is477-fall2023-final-project
-
+# An Analysis of the UC Irvine Iris Dataset for IS477
 ## Overview
 FILL ME
 
