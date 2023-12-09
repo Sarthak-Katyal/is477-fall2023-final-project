@@ -1,0 +1,22 @@
+{
+    "title": "An Analysis of the UC Irvine Iris Dataset for IS477",
+    "description": "The purpose of this repository is to apply the knowledge and central concepts of IS477 through a comprehensive and end-to-end reproducible analysis of UC Irvine's Iris dataset.",
+    "creators": [
+    {
+    "orcid": "0009-0005-0083-099X",
+    "name": "Katyal, Sarthak"
+    }
+    ],
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "https://doi.org/10.24432/C56C76",
+            "relation": "cites",
+            "resource_type": "dataset"
+        }
+    ],
+    "keywords": ["Iris", "Petal", "Sepal", "Plant"],
+    "access_right": "open",
+    "upload_type": "software",
+    "license": "MIT"
+}
