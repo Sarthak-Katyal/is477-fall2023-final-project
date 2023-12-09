@@ -1,4 +1,5 @@
 # An Analysis of the UC Irvine Iris Dataset for IS477
+[![DOI](https://zenodo.org/badge/726998603.svg)](https://zenodo.org/doi/10.5281/zenodo.10312201)
 ## Overview
 The purpose of this repository is to apply the knowledge and central concepts of IS477 through a comprehensive and end-to-end reproducible analysis of UC Irvine's Iris dataset. This dataset is composed of 5 variables (sepal length, sepal width, petal length, petal width, and class) and explores the 3 species of the Iris plant (Setosa, Virginica, Versicolor) with 50 data points per species. The dataset itself was retrieved from the UC Irvine Machine Learning Repository and is protected by a Creative Commons Attribution 4.0 International (CC-BY-4.0) License.
 
