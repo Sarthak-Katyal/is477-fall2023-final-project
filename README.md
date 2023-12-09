@@ -1,11 +1,17 @@
 # An Analysis of the UC Irvine Iris Dataset for IS477
 ## Overview
-FILL ME
-
-![Pairplot Visualization](results/iris_pairplot_visualization.png)
+The pairplot demonstrates a positive correlation between petal length and width and depicts no distinct correlation between sepal length and width while illustrating the similarity in size between Iris-versicolor and Iris-virginica. The profiling report stated the class variable to be a normal distribution and illustrated that the lengths and widths variables have a high correlation with the and class variable
 
 ## Analysis
-FILL ME
+Summary Statistics for the Dataset: 
+- Sepal Length ranges from 4.30 to 7.90 with an average of 5.84 and standard deviation of 0.83
+- Sepal Width ranges from 2.00 to 4.40 with an average of 3.05 and standard deviation of 0.43
+- Petal Length ranges from 1.00 to 6.90 with an average of 3.76 and standard deviation of 1.76
+- Petal Width ranges from 0.10 to 2.50 with an average of 1.20 and standard deviation of 0.76
+
+The pairplot visualizes the positive correlation between petal length and width and the lack of a clear correlation between sepal length and width. It also highlights that Iris-versicolor and Iris-virginica tend to be similar in size and are larger than Iris-setosa.
+
+The profiling report indicates there are 2 duplicate rows and zero missing values. It also says the variable class is uniformly distributed and the various lengths and widths have an overall high correlation with class.
 
 ## Workflow
 ![Workflow Visualization](workflow_visualization_graph.png)
